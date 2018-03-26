@@ -12,3 +12,5 @@ Used SenchaCmd 6.5.3
 
 6. Used the demo-users package in demo app 
 7. Add listener on Users (Treelist) click to show Window having grid showing user listing
+
+8. Build the app using "sencha app build classic development"
